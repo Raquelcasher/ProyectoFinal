@@ -1,0 +1,24 @@
+/*
+CSS 
+web o pagina: https://raquelcasher.github.io/CMV-publico/ejer1.html
+autor: Raquel Castellano Hernández
+fecha: 14-5-2021
+RECORDAR: En caso de conflictos se aplica el estilo que se define último,
+o sea al final de este archivo o en la misma pagina html
+042a2b
+5EB1BF
+CDEDF6
+A8DADC
+*/
+body {
+  	font-family: "Lato", Helvetica, sans-serif;
+}
+.dia {
+	color: black;
+	background-color: #CDEDF6;
+}
+.noche {
+	color: white;
+	background-color: #202124;
+}
+

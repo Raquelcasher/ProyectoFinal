@@ -1,0 +1,68 @@
+.texto{
+	padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    text-align: center;
+}
+@media screen and (max-width: 382px) {
+	.texto{
+	padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+}
+}
+.fuente{
+	font-family: 'KoHo', sans-serif;
+}
+.fuente::first-letter{
+	font-size: 400%;
+}
+.button {
+	pointer-events: auto;
+	cursor: pointer;
+	background: #87B2C7;
+	border: none;
+	padding: 0.5rem 1rem;
+	margin: 0;
+	font-family: inherit;
+	font-size: inherit;
+	position: relative;
+	display: inline-block;
+}
+.button::before,
+.button::after {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.button--anthe {
+	font-family: bely-display, sans-serif;
+	color: #87B2C7;
+	background: none;
+}
+
+.button--anthe::before {
+	content: '';
+	background: #87B2C7;
+	-webkit-clip-path: polygon(0% 0%, 100% 0, 100% 50%, 100% 100%, 0% 100%);
+	clip-path: polygon(0% 0%, 100% 0, 100% 50%, 100% 100%, 0% 100%);
+	transition: clip-path 0.4s cubic-bezier(0.2, 1, 0.8, 1), -webkit-clip-path 0.4s cubic-bezier(0.2, 1, 0.8, 1);
+}
+
+.button--anthe:hover::before {
+	background: #87B2C7;
+	-webkit-clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+	clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+}
+
+.button--anthe span {
+	display: block;
+	mix-blend-mode: difference;
+	transition: transform 0.4s cubic-bezier(0.2, 1, 0.8, 1);
+}
+
+.button--anthe:hover span {
+	transform: translate3d(-10px,0,0);
+}

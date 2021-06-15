@@ -1,0 +1,415 @@
+/*
+CSS 
+web o pagina: https://raquelcasher.github.io/CMV-publico/ejer1.html
+autor: Raquel Castellano Hernández
+fecha: 14-5-2021
+RECORDAR: En caso de conflictos se aplica el estilo que se define último,
+o sea al final de este archivo o en la misma pagina html
+
+
+*/
+
+ .btn.btn-social-icon {
+     width: 50px;
+     height: 50px;
+     padding: 0
+ }
+
+ .btn-facebook {
+     background: #3b579d;
+     color: #ffffff
+ }
+
+ .btn-youtube {
+     background: #e52d27;
+     color: #ffffff
+ }
+
+ .btn-twitter {
+     background: #2caae1;
+     color: #ffffff
+ }
+
+ .btn-instagram {
+     background: #dc4a38;
+     color: #ffffff
+ }
+ .btn.btn-rounded {
+     border-radius: 50px
+ }
+ .template-demo>.btn {
+     margin-right: 0.6rem !important
+ }
+
+ .template-demo {
+     margin-top: 0.6rem !important
+ }
+.mf{
+	color: white;
+  	background-color:#87B2C7 !important;
+}
+.scroll-to-top {
+	background-color:#9CBDC9;
+  	cursor: pointer;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    border-radius: 5px;
+    opacity: 0;
+    transition: all .2s ease-in-out;
+}
+.show-scrollTop {
+    opacity: 1;
+    transition: all .2s ease-in-out;
+}
+* {
+	box-sizing:border-box;
+}
+
+nav{
+	z-index: 10;
+  	transition: all 0.3s;
+}
+
+nav.navShadow {
+  box-shadow: 0 4px 30px -5px rgba(0, 0, 0, 0.2);
+  height: 60px;
+}
+
+.grid{
+	padding-top: 100px;
+	display: grid;
+	grid-template-columns: 33%  33%  33%;
+	grid-template-rows: auto auto auto auto auto auto;
+	grid-gap: 10px;
+	padding-left: 120px;
+	padding-right: 120px;
+}
+.modal button{
+	color: red;
+}
+.tam{
+	background-color: #C9E0E8;
+	font-family: 'Spectral', serif;
+	font-size: 22px;
+	margin: auto;
+	width: 100%;
+    height: auto;
+   	display: inline-block;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: 0.3s;
+	padding: 25px;
+}
+.modal-content{
+	color: black;
+}
+/* The Modal (background) */
+.modal {
+	display: none; /* Hidden by default */
+	padding-top: 80px; /* Location of the box */
+	left: 0;
+	top: 0;
+	overflow: auto; /* Enable scroll if needed */
+	background-color: rgb(0,0,0); /* Fallback color */
+	background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+.tama{
+	width: 500px;
+	height: 300px;
+	left:0px;
+   	right:0px;
+   	top:0px;
+   	margin:auto;
+}
+
+/* Modal Content (image) */
+.modal-content {
+	margin: auto;
+  	display: block;
+  	width: 80%;
+  	max-width: 700px;
+}
+
+/* Caption of Modal Image */
+#caption {
+  	margin: auto;
+  	display: block;
+  	width: 80%;
+  	max-width: 700px;
+  	text-align: center;
+  	color: #ccc;
+  	padding: 10px 0;
+  	height: 150px;
+}
+
+/* Add Animation */
+.modal-content, #caption {  
+  -webkit-animation-name: zoom;
+  -webkit-animation-duration: 0.6s;
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+/*Se recorta lo que se ve de la imagen objet-fit*/
+.imagen {
+	width: 100%; 
+	object-fit: cover;
+}
+img:hover {
+    border: 2px solid black;
+    filter: grayscale(80%);
+}
+.cuadro1{
+	grid-column: 1 / span 1;
+	grid-row: 1 / span 1;
+}
+.cuadro2{
+	grid-column:3/ span 1;
+	grid-row: 1 / span 1;
+}
+.cuadro3{
+	grid-column:2/ span 1;
+	grid-row: 2/ span 1;
+}	
+.cuadro4{
+	grid-column:1/ span 1;
+	grid-row: 3 / span 1;
+}	
+.cuadro5{
+	grid-column:3/ span 1;
+	grid-row: 3 / span 1;
+}	
+.cuadro6{
+	grid-column:2/ span 1;
+	grid-row: 4 / span 1;
+}	
+.cuadro7{
+	grid-column:1/ span 1;
+	grid-row: 5 / span 1;
+}	
+.cuadro8{
+	grid-column:3/ span 1;
+	grid-row: 5 / span 1;
+}	
+.pie {
+	border-style: solid;
+	border-color: balck;
+	grid-column: 1 / span 4;
+	grid-row: 3 / span 1;
+	}
+
+h1 {
+	font-family: 'BioRhyme', serif;
+
+}
+h2{
+	color: white;
+}
+footer {
+	padding-top: 15px;
+	color:white;
+}
+.footer2{
+	padding-top: 25px;
+	padding-bottom: 15px;
+}
+
+div {
+    text-align: center;
+}
+.contenedor{
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+
+.pieFoto{
+	position: absolute;
+	bottom: 0px;
+	color:white;
+	left: 0px;
+}
+.modal-backdrop {
+    /* position: fixed; */
+    top: 0;
+    left: 0;
+    z-index: 1040;
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+}
+.borde{
+	padding-top: 85px;
+}
+/*Responsive de las imagenes*/
+@media screen and (max-width: 900px) {
+	.grid {
+		height:auto;
+		display: block;
+		margin: auto;
+		margin-bottom: 20px;
+		padding-top: 90px;
+		padding-left: 40px;
+		padding-right: 40px;
+	}	
+	.tam{
+		margin-top: 20px;
+	}
+}
+@media screen and (max-width: 382px) {
+	.grid {
+		margin: auto;
+		margin-bottom: 20px;
+	}	
+	nav.navShadow {
+	  box-shadow: 0 4px 30px -5px rgba(0, 0, 0, 0.2);
+	  height: 120px;
+	}
+}
+.formulario{
+	margin: auto;
+	text-align: left;
+	width: 300px;
+	height: 225px;
+}
+fieldset{
+	width: 300px;
+	height: 300 px;
+	box-shadow: 80px 30px 30px rgba(255,0,0,0.5); 
+	border-radius: 20px;  
+	background-color:#ddd;
+  	float: left;
+	padding: 10px;
+}
+.cuadroForm{
+	padding-left: 150px;
+}
+p{
+	color: white;
+}
+.scrollmenu {
+	justify-content: center;
+	color: white;
+	padding: 3px;
+	text-decoration: none;
+}
+.ki {
+	background-color:#FAFAFA;
+	color:#fff;
+	padding:10px 10px;
+	display: inline-block;
+	text-transform: uppercase;
+}	
+
+.ki:hover{
+	font-size:25px;
+	background-color:yellow;
+}
+
+.marquesina{
+	color: black;
+	height: 50px;
+	font-size: 35px;
+	font-family: 'BioRhyme', serif;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 80%;
+	ALIGN: BOTTOM;
+	BEHAVIOR: Scroll; 
+}
+.marnoche{
+	color: #CDEDF6;
+	height: 50px;
+	font-size: 35px;
+	font-family: 'BioRhyme', serif;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 80%;
+	ALIGN: BOTTOM;
+	BEHAVIOR: Scroll; 
+}
+.reloj{
+	background-color : Black; 
+	color : White; 
+	font-family : Verdana, Arial, Helvetica; 
+	font-size : 8pt; 
+	text-align : center;
+}
+
+/* Icono sol y luna*/
+.darkModeSwitch{
+    background: #3494b1;
+    display:flex;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 1rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ .darkModeSwitch span{
+    width:30px;
+    height:30px;
+    line-height:30px;
+    display:block;
+    color:#fff;
+    background: none;
+}
+
+.darkModeSwitch::after{
+    background: #fffbf5;
+    width: 2.4rem;
+    height: 2.4rem;
+    position: absolute;
+    top:0;
+    left:0;
+    right:unset;
+    border-radius: 3rem;
+    transition: all .5s ease;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, .5);
+    content: "";
+}
+
+.darkModeSwitch.active{
+  	background: #fdd384;
+}
+
+.darkModeSwitch.active::after{
+	left:unset;
+	right:0;
+}
+
+//Botón leer más
+.btn-read-more{
+	background:black;
+	padding:6px 12px;
+	border-radius: 4px;
+	color:white;
+	text-transform: uppercase;
+	font-size:12px;
+	text-decoration: none;
+}
+
+.btn-read-more:hover{
+	background-color:red;
+	color:white;
+}
+
+.cerrar{
+	float: none;
+	z-index: 10;
+	font-size: 1.5rem;
+	font-weight: 700;
+	line-height: 1;
+	color: red;
+}
+
+.fechahora{
+	text-align:center;
+	margin-top: 30px;
+}
+
