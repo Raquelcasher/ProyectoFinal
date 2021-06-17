@@ -12,11 +12,20 @@ import * as xml2js from 'xml2js';
 })
 export class AppComponent {
   now: Date = new Date();
+  counter(i: number) {
+    return new Array(i);
+}
   flag: boolean = true;
   switchButton = document.getElementById('switch');
   windowScrolled: boolean = true;
   public xmlItems: any;
-
+  public xmlItems1: any;
+  public xmlItems2: any;
+  public xmlItems3: any;
+  public xmlItems4: any;
+  public xmlItems5: any;
+  public xmlItems6: any;
+  public xmlItems7: any;
   @HostListener("window:scroll", [])
   onWindowScroll() {
     if (window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop > 100) {
@@ -65,15 +74,30 @@ export class AppComponent {
       })
       .subscribe((data) => {
         this.parseXML(data)
-          .then((data) => {
-            this.xmlItems = data;
-          });
+        .then((data) => {
+          this.xmlItems = data[0];
+          this.xmlItems1 = data[1];
+          this.xmlItems2 = data[2];
+          this.xmlItems3 = data[3];
+          this.xmlItems4 = data[4];
+          this.xmlItems5 = data[5];
+          this.xmlItems6 = data[6];
+          this.xmlItems7 = data[7];
       });
+    });
   }
   parseXML(data) {
     return new Promise(resolve => {
       var k: string | number,
         arr = [],
+        xmlItems=[],
+        xmlItems1=[],
+        xmlItems2=[],
+        xmlItems3=[],
+        xmlItems4=[],
+        xmlItems5=[],
+        xmlItems6=[],
+        xmlItems7=[],
         parser = new xml2js.Parser(
           {
             trim: true,
@@ -83,16 +107,89 @@ export class AppComponent {
         var obj = result.Fotos;
         for (k in obj.img) {
           var item = obj.img[k];
-          arr.push({
-            cod: item.cod[0],
-            name: item.name[0],
-            url: item.url[0],
-            descrip: item.descrip[0]
-          });
-        }
-        resolve(arr);
+          if (item.cod[0] == 1) {
+            xmlItems.push(
+              {
+                //cod: item.cod[0], Esto ya no te hace falta porque ya esta clasificado en su array
+                name: item.name[0],
+                url: item.url[0],
+                descrip: item.descrip[0]
+              }
+            )
+          } else if (item.cod[0] == 2) {
+            xmlItems1.push(
+              {
+                //cod: item.cod[0], Esto ya no te hace falta porque ya esta clasificado en su array
+                name: item.name[0],
+                url: item.url[0],
+                descrip: item.descrip[0]
+              }
+            )
+          } else if (item.cod[0] == 3) {
+            xmlItems2.push(
+              {
+                //cod: item.cod[0], Esto ya no te hace falta porque ya esta clasificado en su array
+                name: item.name[0],
+                url: item.url[0],
+                descrip: item.descrip[0]
+              }
+            )
+          } else if (item.cod[0] == 4) {
+            xmlItems3.push(
+              {
+                //cod: item.cod[0], Esto ya no te hace falta porque ya esta clasificado en su array
+                name: item.name[0],
+                url: item.url[0],
+                descrip: item.descrip[0]
+              }
+            )
+          } else if (item.cod[0] == 5) {
+            xmlItems4.push(
+              {
+                //cod: item.cod[0], Esto ya no te hace falta porque ya esta clasificado en su array
+                name: item.name[0],
+                url: item.url[0],
+                descrip: item.descrip[0]
+              }
+            )
+          } else if (item.cod[0] == 6) {
+            xmlItems5.push(
+              {
+                //cod: item.cod[0], Esto ya no te hace falta porque ya esta clasificado en su array
+                name: item.name[0],
+                url: item.url[0],
+                descrip: item.descrip[0]
+              }
+            )
+          } else if (item.cod[0] == 7) {
+            xmlItems6.push(
+              {
+                //cod: item.cod[0], Esto ya no te hace falta porque ya esta clasificado en su array
+                name: item.name[0],
+                url: item.url[0],
+                descrip: item.descrip[0]
+              }
+            )
+          }
+          else if (item.cod[0] == 8) {
+            xmlItems7.push(
+              {
+                //cod: item.cod[0], Esto ya no te hace falta porque ya esta clasificado en su array
+                name: item.name[0],
+                url: item.url[0],
+                descrip: item.descrip[0]
+              }
+            )
+          }
+        }          
+      arr.push(xmlItems,xmlItems1,xmlItems2,xmlItems3,xmlItems4,xmlItems5,xmlItems6,xmlItems7);
+      console.log(arr);
+      resolve(arr);
       });
     });
   }
-
 }
+
+
+
+         

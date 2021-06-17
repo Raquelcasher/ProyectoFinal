@@ -4,336 +4,444 @@
         <cod>1</cod>  
         <name>Las Canteras</name>  
         <url>https://www.canterasvistaplaya.com/files/slider/20170605-102337-4996_bg.jpg</url>
-        <descrip>1111</descrip> 
+        <descrip>1</descrip> 
     </img>  
     <img>  
         <cod>1</cod>  
         <name>Alcaravaneras</name>  
-        <url>https://taxilaspalmasdegrancanaria.com/wp-content/uploads/2020/11/Gran-Canaria-Playa-de-San.jpg</url> 
+        <url>https://live.staticflickr.com/6105/6257869923_38b0d30bdf_b.jpg</url> 
         <descrip>8888888</descrip> 
     </img>     
     <img>  
         <cod>1</cod>  
         <name>San Agustin</name>  
-        <url>https://live.staticflickr.com/6105/6257869923_38b0d30bdf_b.jpg</url> 
+        <url>https://taxilaspalmasdegrancanaria.com/wp-content/uploads/2020/11/Gran-Canaria-Playa-de-San.jpg</url> 
         <descrip>777777</descrip> 
     </img> 
     <img>  
         <cod>1</cod>  
         <name>Del inglés</name>  
-        <url>https://live.staticflickr.com/6105/6257869923_38b0d30bdf_b.jpg</url> 
+        <url>https://www.guaguasglobal.com/wp-content/uploads/2017/08/maspalomas-6.jpg</url> 
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>1</cod>  
         <name>Maspalomas</name>  
-        <url>https://live.staticflickr.com/6105/6257869923_38b0d30bdf_b.jpg</url> 
+        <url>https://farm5.static.flickr.com/4114/4768165412_b94def05c8_b.jpg</url> 
         <descrip>5431643</descrip> 
     </img>     
     <img>  
         <cod>1</cod>  
         <name>Puerto Rico</name>  
-        <url>https://live.staticflickr.com/6105/6257869923_38b0d30bdf_b.jpg</url> 
+        <url>https://i.pinimg.com/originals/52/7a/63/527a631977b1f5ae015cc1478531f22c.jpg</url> 
         <descrip>5431643</descrip> 
     </img> 
     <img>  
         <cod>1</cod>  
         <name>Puerto de Mogán</name>  
-        <url>https://live.staticflickr.com/6105/6257869923_38b0d30bdf_b.jpg</url> 
+        <url>https://localguidegrancanaria.com/wp-content/uploads/Puerto-de-Moga%CC%81n.jpg</url> 
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>1</cod>  
         <name>Playa de taurito</name>  
-        <url>https://live.staticflickr.com/6105/6257869923_38b0d30bdf_b.jpg</url> 
+        <url>https://turismo.mogan.es/images/beaches/taurito.jpg</url> 
         <descrip>5431643</descrip> 
     </img>     
     <img>  
         <cod>1</cod>  
         <name>Anfi del mar</name>  
-        <url>https://live.staticflickr.com/6105/6257869923_38b0d30bdf_b.jpg</url> 
+        <url>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Amfi_del_Mar%2C_det_s%C3%A5kalte_Lyngsenteret%2C_p%C3%A5_Gran_Canaria.jpg/3264px-Mapcarta.jpg</url> 
         <descrip>5431643</descrip> 
     </img> 
     <img>  
         <cod>1</cod>  
         <name>Meloneras</name>  
-        <url>https://live.staticflickr.com/6105/6257869923_38b0d30bdf_b.jpg</url> 
+        <url>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Amfi_del_Mar%2C_det_s%C3%A5kalte_Lyngsenteret%2C_p%C3%A5_Gran_Canaria.jpg/3264px-Mapcarta.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img> 
+     <img>  
+        <cod>2</cod>  
+        <name>Senderismo</name>  
+        <url>https://www.lugaresdeaventura.com/sites/default/files/2020-09/low-senderismo-03-gran-canaria-%C2%A9-patronato-de-turismo-de-gran-canaria.jpg</url> 
+        <descrip>1</descrip> 
+    </img> 
+    <img>  
+        <cod>2</cod>  
+        <name>Safari camellos</name>  
+        <url>http://ddt27jcyr70k6.cloudfront.net/2012/06/Canarias-Camello.jpg</url> 
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>2</cod>  
-        <name>Faisal</name>  
-        <url>https://live.staticflickr.com/6105/6257869923_38b0d30bdf_b.jpg</url> 
-        <descrip>5431643</descrip> 
-    </img>   
-    <img>  
-        <cod>2</cod>  
-        <name>Faisal</name>  
-        <url>https://live.staticflickr.com/6105/6257869923_38b0d30bdf_b.jpg</url> 
-        <descrip>5431643</descrip> 
-    </img>  
-    <img>  
-        <cod>2</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Equitacion</name>  
+        <url>https://cdn1.yumping.com/emp/fotos/5/6/8/8/tm_e-19625688-bf439d25-9bc3-4ab0-93ca-de690096a53c15482643442633.jpeg</url> 
         <descrip>5431643</descrip> 
     </img> 
     <img>  
         <cod>2</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Escalada</name>  
+        <url>https://static.desnivel.com/images/2006/04/21/tamadaba2.jpg</url> 
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>2</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Karting</name>  
+        <url>https://atodomotor.blob.core.windows.net/contents/article/4270/GCKarting.jpg</url> 
         <descrip>5431643</descrip> 
     </img> 
     <img>  
         <cod>2</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Golf</name>  
+        <url>https://www.spaingolf.holiday/slideshow/pictures/course/209/portugal-golf-anfi-tauro-img1.jpg</url> 
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>2</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
-        <descrip>5431643</descrip> 
-    </img> 
-    <img>  
-        <cod>2</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
-        <descrip>5431643</descrip> 
-    </img>  
-    <img>  
-        <cod>2</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Deporte aéreo</name>  
+        <url>https://cdn1.yumping.com/emp/fotos/6/4/4/0/6/tm_p-64406-36522074-1587823561324370-827063907817357312-n_15809201792896.jpg</url> 
         <descrip>5431643</descrip> 
     </img>
     <img>  
-        <cod>3</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <cod>2</cod>  
+        <name>Ciclismo</name>  
+        <url>https://www.ciclismoafondo.es/uploads/s1/76/52/03/7/gran-canaria-bike-week-apertura-web.jpeg</url> 
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>3</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
-        <descrip>5431643</descrip> 
+        <name>Aqualand</name>  
+        <url>https://www.pequeocio.com/wp-content/uploads/elementor/thumbs/aqualand-maspalomas-canarias-obs9fmyn7n4pf9opftsshrlb2nvk2ch04vpwv6v8mo.jpg</url> 
+        <descrip>1</descrip> 
     </img> 
     <img>  
         <cod>3</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Atlántida</name>  
+        <url>http://www.achus.info/Albums/espana/Atlantida-Park/Atlantida-Park-01.jpg</url> 
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>3</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Palmitos Park</name>  
+        <url>https://www.cuantochollo.com/wp-content/uploads/2021/03/palmitos-park-portada.jpg</url> 
         <descrip>5431643</descrip> 
     </img> 
     <img>  
         <cod>3</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Holiday World</name>  
+        <url>https://www.mycanarias.com/wp-content/uploads/2017/06/holiday_world.jpg</url> 
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>3</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Sioux city</name>  
+        <url>https://www.okgrancanaria.com/wp-content/uploads/2018/06/Sioux-city-Las-Palmas.jpg</url> 
         <descrip>5431643</descrip> 
     </img> 
     <img>  
         <cod>3</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Mundo aborigen</name>  
+        <url>https://canariainfo.com/images/Aborigen_2.jpg</url> 
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>3</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Cocodrilo park</name>  
+        <url>https://media-cdn.tripadvisor.com/media/photo-s/07/38/ab/36/cocodrilo-park.jpg</url> 
         <descrip>5431643</descrip> 
     </img> 
     <img>  
         <cod>3</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Cactualdea park</name>  
+        <url>https://media-cdn.tripadvisor.com/media/photo-s/0f/7f/5d/62/cactualdea-park.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>  
+    <img>  
+        <cod>3</cod>  
+        <name>Pueblo Canario</name>  
+        <url>https://www.revistabinter.com/wp-content/uploads/2017/10/pueblocanario-800x560.jpg</url> 
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>4</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
-        <descrip>5431643</descrip> 
-    </img>  
-    <img>  
-        <cod>4</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Vela</name>  
+        <url>https://viajes.chavetas.es/wp-content/uploads/albums/mipais/velalatinacanaria01.jpg</url> 
         <descrip>5431643</descrip> 
     </img> 
     <img>  
         <cod>4</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Windsurf</name>  
+        <url>https://www.grancanariaregional.com/wp-content/uploads/2019/08/bd-surf-2-surfers-600x450.jpg</url> 
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>4</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Bodyboard y Surf</name>  
+        <url>https://maspalomasahora.com/upload/images/10_2018/1013_amaury-laverhne-copia.jpg</url> 
         <descrip>5431643</descrip> 
     </img> 
     <img>  
         <cod>4</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Submarinismo</name>  
+        <url>https://www.hotelesdunas.com/content/thumbs/890_544/content/imgsxml/blog/cropped_7uzzuql.jpg</url>
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>4</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Parasailing</name>  
+        <url>https://www.grancanariaregional.com/wp-content/uploads/2019/07/parasailing-above-whole-beach1.jpg</url> 
         <descrip>5431643</descrip> 
     </img> 
     <img>  
         <cod>4</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>esquí acuático</name>  
+        <url>https://cdn.sunbonoo.com/media/catalog/product/cache/2/image/1080x720/9d0ad7affc992e9f5155d5b6f420bd62/w/a/wakeboard-fahren-gran-canaria.jpg</url> 
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>4</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Motos acuáticas</name>  
+        <url>https://grancanariawatersport.com/wp-content/uploads/2019/05/a-ver-que-tal-queda-esta-1-768x1024.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img> 
+    <img>  
+        <cod>4</cod>  
+        <name>Kitesurf</name>  
+        <url>https://kitesurfgrancanaria.com/wp-content/uploads/2020/11/kitegrancanaria42.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>  
+    <img>  
+        <cod>5</cod>  
+        <name>Carne de Cabra</name>  
+        <url>https://tenerifesurprise.es/wp-content/uploads/2018/08/Composta-di-carne-di-capra-2.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>  
+    <img>  
+        <cod>5</cod>  
+        <name>Cancocho</name>  
+        <url>https://img-global.cpcdn.com/recipes/cba2c491abcbb790/751x532cq70/sancocho-canario-foto-principal.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>  
+    <img>  
+        <cod>5</cod>  
+        <name>Ropa vieja</name>  
+        <url>https://www.rebanando.com/media/ropa-vieja-canaria_crop.jpg/rh/ropa-vieja-canaria.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>  
+    <img>  
+        <cod>5</cod>  
+        <name>Rancho</name>  
+        <url>https://lapalmerarosa.com/wp-content/uploads/2018/02/rancho-canario-4.jpg</url> 
         <descrip>5431643</descrip> 
     </img> 
     <img>  
         <cod>5</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Chorizo de Teror</name>  
+        <url>https://www.canariasconfidencial.com/wp-content/uploads/2018/07/chorizo-de-teror.jpg</url> 
         <descrip>5431643</descrip> 
-    </img>  
-    <img>  
+    </img>  <img>  
         <cod>5</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Potaje de berros</name>  
+        <url>https://culturatradicionalgc.org/wp-content/uploads/sites/8/2018/05/PotajeBerros0484.jpg</url> 
         <descrip>5431643</descrip> 
     </img> 
     <img>  
         <cod>5</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Conejo en Salmorejo</name>  
+        <url>https://lapalmerarosa.com/wp-content/uploads/2016/06/conejo-en-salmorejo.jpg</url> 
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>5</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Carne de Fiesta</name>  
+        <url>https://img-global.cpcdn.com/recipes/d703246dd4c11884/1200x630cq70/photo.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+<img>  
+        <cod>5</cod>  
+        <name>Gofio</name>  
+        <url>https://maletaconruedas.com/wp-content/uploads/2020/11/Gofio-Canario.jpg </url> 
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>5</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Polvito Uruguayo</name>  
+        <url>https://img-global.cpcdn.com/recipes/93bcbf7e7655565b/1200x630cq70/photo.jpg</url> 
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>5</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Mousse de Gofio</name>  
+        <url>https://lapalmerarosa.com/wp-content/uploads/2017/09/mousse-de-gofio-6.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>  
+ <img>  
+        <cod>5</cod>  
+        <name>Pella de Gofio</name>  
+        <url>https://lapalmerarosa.com/wp-content/uploads/2019/05/gofio-amasado-18.jpg</url> 
         <descrip>5431643</descrip> 
     </img> 
     <img>  
         <cod>5</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Suspiros de Moya</name>  
+        <url>https://comerciovillademoya.es/cmsAdmin/uploads/o_1b6f822vi38p110o15l91a7lbpqa.png</url> 
         <descrip>5431643</descrip> 
     </img>  
     <img>  
         <cod>5</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Gofio escaldao</name>  
+        <url>http://www.gofiolapina.es/wp-content/uploads/2014/05/gofio-escaldado.jpg</url> 
         <descrip>5431643</descrip> 
     </img> 
     <img>  
         <cod>5</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
-        <descrip>5431643</descrip> 
-    </img>  
-    <img>  
-        <cod>5</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
-        <descrip>5431643</descrip> 
-    </img>  
-    <img>  
-        <cod>5</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
-        <descrip>5431643</descrip> 
-    </img>  
-    <img>  
-        <cod>5</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
-        <descrip>5431643</descrip> 
-    </img>  
-    <img>  
-        <cod>5</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
-        <descrip>5431643</descrip> 
-    </img>  
-    <img>  
-        <cod>5</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
-        <descrip>5431643</descrip> 
-    </img> 
-    <img>  
-        <cod>5</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
-        <descrip>5431643</descrip> 
-    </img>  
-    <img>  
-        <cod>6</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
-        <descrip>5431643</descrip> 
-    </img> 
-    <img>  
-        <cod>6</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Papas Arrugadas</name>  
+        <url>https://mojopicon.com.es/img/papas-arrugadas-con-mojo-picon-241.jpg</url> 
         <descrip>5431643</descrip> 
     </img> 
     <img>  
         <cod>6</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Casa de Colón</name>  
+        <url>https://www.visitarcanarias.com/Images/Museo-Casa-Colon.jpg</url> 
         <descrip>5431643</descrip> 
     </img> 
     <img>  
         <cod>6</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Centro Atlántico de Arte</name>  
+        <url>https://www.caam.net/pdfs/boletines/161212_np.jpg</url> 
         <descrip>5431643</descrip> 
     </img> 
-        <img>  
+    <img>  
         <cod>6</cod>  
-        <name>Faisal</name>  
-        <url>Male</url> 
+        <name>Museo Canario</name>  
+        <url>http://3.bp.blogspot.com/-6VJSYakby34/W97K5QAtq1I/AAAAAAAACS8/toKPL1usDt0NNHl2uOZdjb1FkTmaNAKkQCK4BGAYYCw/s1600/museo_canario-gran_canaria.jpg</url> 
         <descrip>5431643</descrip> 
+    </img> 
+    <img>  
+        <cod>6</cod>  
+        <name>Casa Museo Pérez Galdós</name>  
+        <url>https://www.barcelo.com/guia-turismo/wp-content/uploads/2019/12/Museo-Perez-Galdos_1.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img> 
+    <img>  
+        <cod>6</cod>  
+        <name>Museo de Guayadeque</name>  
+        <url>https://d1bvpoagx8hqbg.cloudfront.net/originals/museo-guayadeque-c654dd2cb6fa316976c979507e43c972.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img> 
+    <img>  
+        <cod>6</cod>  
+        <name>Museo Elder</name>  
+        <url>https://img.grouponcdn.com/deal/tMYqAX48MgWd53hc1uvXpgprEoz/tM-1500x900/v1/t600x362.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img> 
+    <img>  
+        <cod>7</cod>  
+        <name>Mirador el Balcón</name>  
+        <url>https://www.holaislascanarias.com/sites/default/files/styles/masonry_image/public/resources/resource_image/mirador-del-balcon-1.jpg?itok=MOdgBM4f</url> 
+        <descrip>5431643</descrip> 
+    </img>
+    <img>  
+        <cod>7</cod>  
+        <name>Mirador del Molino</name>  
+        <url>https://grancanariavirtual.com/wp/wp-content/uploads/2016/09/23de_1fca.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+    <img>  
+        <cod>7</cod>  
+        <name>El Balcón de Unamuno</name>  
+        <url>https://www.grancanaria.com/blog/fileadmin/_processed_/csm_Gran-Canaria-Mirador-de-Unamuno-_020e571968.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+    <img>  
+        <cod>7</cod>  
+        <name>Mirador de la Cilla</name>  
+        <url>https://aws.traveler.es/prod/designs/v1/assets/745x497/179656.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+    <img>  
+        <cod>7</cod>  
+        <name>Mirador del Corazón de Jesús</name>  
+        <url>https://www.artenara.es/turismo/images/galeria/contenido/corazon-de-jesus1.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+    <img>  
+        <cod>7</cod>  
+        <name>Mirador del Roque Nublo</name>  
+        <url>https://grancanariavirtual.com/wp/wp-content/uploads/2016/09/35d9_5da4.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+    <img>  
+        <cod>7</cod>  
+        <name>Mirador de la Caldera de los Marteles</name>  
+        <url>https://media-cdn.tripadvisor.com/media/photo-s/13/69/09/5b/vue-de-la-calderas.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+    <img>  
+        <cod>7</cod>  
+        <name>Mirador del Ventano del Nublo</name>  
+        <url>https://www.turismodeobservacion.com/media/fotografias/la-ventana-del-nublo-gran-canaria-87575-xl.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+    <img>  
+        <cod>7</cod>  
+        <name>Mirador de Tejeda</name>  
+        <url>https://aws.traveler.es/prod/designs/v1/assets/1200x628/172170.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+    <img>  
+        <cod>7</cod>  
+        <name>Mirador de la Degollada de las Yeguas</name>  
+        <url>https://room-online-pro.s3.amazonaws.com/cobi%2Fmedia%2Fhdhotels.com%2Fstorage%2Fmedia%2Fuploads%2F2019%2F05%2F27%2Fmirador-degollada-de-las-yegu.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+
+    <img>  
+        <cod>7</cod>  
+        <name>Mirador de la Caldera de Bandama</name>  
+        <url>https://www.spain-grancanaria.com/images/rotators/323-caldera-bandana.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+    <img>  
+        <cod>7</cod>  
+        <name>Mirador de La Sorrueda</name>  
+        <url>https://localguidegrancanaria.com/wp-content/uploads/Mirador-de-La-Sorrueda.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+    <img>  
+        <cod>8</cod>  
+        <name>Parque Natural de Tamadaba</name>  
+        <url>https://cadenaser00.epimg.net/ser/imagenes/2019/03/07/ser_las_palmas/1551958864_361775_1551959178_noticia_normal.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+    <img>  
+        <cod>8</cod>  
+        <name>Reserva Natural Integral de Inagua</name>  
+        <url>https://cdn-assets.alltrails.com/es/uploads/photo/image/21994340/large_dd26d5fad3f14b729666f9c70f9d450f.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+    <img>  
+        <cod>8</cod>  
+        <name>El Brezal</name>  
+        <url>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fayal-brezal_de_La_Llan%C3%ADa_%28El_Hierro%29.jpg/1200px-Fayal-brezal_de_La_Llan%C3%ADa_%28El_Hierro%29.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+    <img>  
+        <cod>8</cod>  
+        <name>Paisaje Protegido de La Isleta</name>  
+        <url>https://www.grancanaria.com/fileadmin/diseno2014/img/naturaleza/cabeceras_estaticas/espacios_naturales/22.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+    <img>  
+        <cod>8</cod>  
+        <name>Parque Rural de Doramas</name>  
+        <url>https://www.teldeactualidad.com/userfiles/grancanaria/2019/03/4808/tilosmoya-senderos.jpg</url> 
+        <descrip>5431643</descrip> 
+    </img>
+    <img>  
+        <cod>8</cod>  
+        <name>Roque de Aguayro</name>  
+        <url>https://atlasruraldegrancanaria.com/img/imagenes/cab_OPRbnmLBvISaG4mA.jpg</url> 
+        <descrip>5431643</descrip>
     </img> 
 </Fotos>
