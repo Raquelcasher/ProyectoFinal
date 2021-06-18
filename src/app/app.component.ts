@@ -16,6 +16,7 @@ export class AppComponent {
     return new Array(i);
 }
   flag: boolean = true;
+  flag1: boolean = false;
   switchButton = document.getElementById('switch');
   windowScrolled: boolean = true;
   public xmlItems: any;
@@ -61,7 +62,9 @@ export class AppComponent {
   cambiarFlag() {
     this.flag = !this.flag;
   }
-
+  cambiarFlag1() {
+    this.flag1 = !this.flag1;
+  }
   loadXML() {
     this._http.get('/assets/fotos.xml',
       {

@@ -12,11 +12,11 @@
 		    </button>
 	  	</div>
 		<!-- Menú -->
-		<nav class="navbar navbar-expand-lg navbar-light fixed-top mf" style="padding-bottom: 15px;">
+		<nav class="navbar navbar-expand-lg navbar-light fixed-top mf" [ngClass]="{'x': flag1}">
 			<a class="navbar-brand" href="#">
 				<h1>Gran Canaria</h1>
 			</a>
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"  (click)="cambiarFlag1()">
 				<span class="navbar-toggler-icon"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="navbarNavDropdown">
