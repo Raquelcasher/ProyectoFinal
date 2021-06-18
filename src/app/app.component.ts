@@ -50,12 +50,12 @@ export class AppComponent {
   }
 
   ngOnInit() {
-
+  /*
     setInterval(() => {
 
       this.now = new Date();
 
-    }, 1000);
+    }, 1000);*/
   }
 
   cambiarFlag() {

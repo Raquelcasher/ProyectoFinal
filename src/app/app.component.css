@@ -6,8 +6,9 @@ fecha: 14-5-2021
 RECORDAR: En caso de conflictos se aplica el estilo que se define último,
 o sea al final de este archivo o en la misma pagina html
 
-
+object-fit
 */
+
 .clos{
 	background-color: #fff;
 	margin-bottom: 20px;
@@ -52,6 +53,7 @@ o sea al final de este archivo o en la misma pagina html
   	background-color:#87B2C7 !important;
 }
 .scroll-to-top {
+	z-index: 20;
 	background-color:#9CBDC9;
   	cursor: pointer;
     position: fixed;
@@ -88,7 +90,14 @@ nav.navShadow {
 	padding-left: 120px;
 	padding-right: 120px;
 }
+.tamnoc{
+	box-shadow: -17px 18px 19px 2px #61a4ba;
+}
+.tamdia{
+	box-shadow: -17px 18px 19px 2px #bdd4d9;
+}
 .tam{
+	
   	position: relative;
 	background-color: #C9E0E8;
 	font-family: 'Spectral', serif;
@@ -262,11 +271,13 @@ div {
 	.grid {
 		margin: auto;
 		margin-bottom: 20px;
+		margin-top: 30px;
 	}	
 	nav.navShadow {
 	  box-shadow: 0 4px 30px -5px rgba(0, 0, 0, 0.2);
 	  height: 120px;
 	}
+
 }
 .formulario{
 	margin: auto;
